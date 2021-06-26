@@ -4,6 +4,7 @@ if($_COOKIE["auth"]){?>
     <a href='product/product.php'>product</a> &nbsp; &nbsp; 
     <a href='logout.php'>logout</a> &nbsp; &nbsp; 
 	<h1>salom</h1>
+	<h1>hammaga</h1>
 
 <?}
 else{
