@@ -1,5 +1,5 @@
 <?
-    $users_file = fopen("users.json", "r", true);
+    $users_file = fopen("users.json", "r", true); 
     $users_json = fgets($users_file);
     $users_val = json_decode($users_json, true);
     foreach($users_val as $key => $value){
