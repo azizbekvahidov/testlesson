@@ -3,7 +3,6 @@
         <input type="text" name="name" placeholder="Имя"><br><br>
         <input type="text" name="surname" placeholder="Фамилия"><br><br>
         <input type="email" name="email" placeholder="Имэйл"><br><br>
-        <input type="phone" name="phone" placeholder="Телефон"><br><br>
         <input type="text" name="login" placeholder="Логин"><br><br>
         <input type="text" name="pass" placeholder="Пароль"><br><br>
         <input type="date" name="wasborn"><br><br>
