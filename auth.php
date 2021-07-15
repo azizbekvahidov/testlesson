@@ -1,6 +1,7 @@
 <form action="authorize.php" method="post">
     <input type="text" name="login" id=""><br> <br>
     <input type="password" name="pass" id=""> <br><br>
+    <input type="email" name="email" id=""> <br><br>
     <button type="submit"> login</button>
 </form><br>
     <a href='register.php'>registratsiya</a> &nbsp; &nbsp; 
